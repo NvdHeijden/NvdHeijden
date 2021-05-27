@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NvdHeijden
-- 👀 I’m interested in Data science as a whole
-- 🌱 I’m currently following the BSc Data Science
+- 👀 I’m interested in ML, DBMS and Business Analytics
+- 🌱 I’m currently studying -- BSc Data Science
 - 💞️ I’m looking to collaborate on sustainable innovation projects
 
 <!---
